@@ -1,5 +1,7 @@
 {
   "name": "hooks",
+  "homepage": "https://alexandergrand.github.io/react-memo-y-reduce/",
+
   "version": "0.1.0",
   "private": true,
   "dependencies": {
