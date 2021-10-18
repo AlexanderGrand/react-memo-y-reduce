@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-memo-y-reduce/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/react-memo-y-reduce/static/js/main.04b61ba3.chunk.js",
+    "main.js.map": "/react-memo-y-reduce/static/js/main.04b61ba3.chunk.js.map",
+    "runtime-main.js": "/react-memo-y-reduce/static/js/runtime-main.4f868db0.js",
+    "runtime-main.js.map": "/react-memo-y-reduce/static/js/runtime-main.4f868db0.js.map",
+    "static/css/2.9082872e.chunk.css": "/react-memo-y-reduce/static/css/2.9082872e.chunk.css",
+    "static/js/2.c66a2906.chunk.js": "/react-memo-y-reduce/static/js/2.c66a2906.chunk.js",
+    "static/js/2.c66a2906.chunk.js.map": "/react-memo-y-reduce/static/js/2.c66a2906.chunk.js.map",
+    "static/js/3.0b808249.chunk.js": "/react-memo-y-reduce/static/js/3.0b808249.chunk.js",
+    "static/js/3.0b808249.chunk.js.map": "/react-memo-y-reduce/static/js/3.0b808249.chunk.js.map",
+    "index.html": "/react-memo-y-reduce/index.html",
+    "static/css/2.9082872e.chunk.css.map": "/react-memo-y-reduce/static/css/2.9082872e.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/react-memo-y-reduce/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.c66a2906.chunk.js.LICENSE.txt": "/react-memo-y-reduce/static/js/2.c66a2906.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f868db0.js",
+    "static/css/2.9082872e.chunk.css",
+    "static/js/2.c66a2906.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.04b61ba3.chunk.js"
+  ]
+}
