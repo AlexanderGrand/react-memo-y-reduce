@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # React Hook Memo y Reduce
 
 https://alexandergrand.github.io/react-memo-y-reduce/
@@ -25,3 +27,5 @@ Todos Lo datos anteriores estan correlacionados, y si un dato cambia, produce un
 ### React memo tiene como objetivo determinar cuando debe renderizarse un componente, y para ello maneja una version memorizada del mismo, que depende directamente de sus props, es decir, si un componente recibe props, el componente solo se renderizara cada vez y unicamente, cuando sus props cambien, en caso contrario, se retorna una version memorizada del mismo.
 
 ## Entonces ,para ilustrar y observar el uso de React.memo , la app de la granja tiene una componente tabla optimizado y otro no optimizado, en la version no optimizada, en su parte superior se encuentra un barra de colores, que cambia cada vez que el hook reduce rederiza todo, de igual forma, en la version optimizada tambien se encuentra la barra de colores, pero, solo cambiara de color cuando se da click en el boton de algun formulario. Gracias a que internamente esta envuelto sobre React.memo.
+
+=======
